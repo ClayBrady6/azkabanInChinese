@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/azkaban/azkaban
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "release-2.5"]
+	remote = origin
+	merge = refs/heads/release-2.5
