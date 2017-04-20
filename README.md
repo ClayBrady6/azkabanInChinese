@@ -1,3 +1,7 @@
+this is Azkaban2.5
+
+just chinese version of it!
+
 ## Azkaban2
 
 [![Build Status](https://travis-ci.org/azkaban/azkaban2.png?branch=master)](https://travis-ci.org/azkaban/azkaban2)
